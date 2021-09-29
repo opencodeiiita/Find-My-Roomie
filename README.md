@@ -39,7 +39,7 @@ Since everyone should be awarded for their efforts, the rest of the participants
 
 </br>
 
-| Task             | Tenative Time                                                                |
+| Task             | Tentative Time                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | User Experience (UX) Task | Week 1 |
 | User Interface (UI) Task - 1 | Week 1 |
