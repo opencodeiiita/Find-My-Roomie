@@ -2,6 +2,7 @@
 For developing an app, it is essential to know the importance of UI/UX in the mobile app📱. You can create an app with great functionality but if you fail to focus on the designing part, it may lead to the downfall of your app. It is mandatory to have the right balance between the functionality and UI/UX of the app in order to make it a successful one✅. Do you have what it takes?
 
 
+</br>
 
 ## ✒Tech Stack:
 
@@ -9,7 +10,7 @@ For developing an app, it is essential to know the importance of UI/UX in the mo
 - Figma/Adobe XD
 - Illustrator
 
-
+</br>
 
 ## 🧾Common Rules:
 
@@ -26,13 +27,17 @@ For developing an app, it is essential to know the importance of UI/UX in the mo
 
 Since everyone should be awarded for their efforts, the rest of the participants who qualify for the **Minimum Design Criteria (MDC)** as mentioned in the respective folders of the task will be awarded 0.3 * Full Points🎉.
 
+</br>
+
 > ALL THE FINAL DECISIONS FOR THE JUDGMENT AND AWARDING OF POINTS ⚖️ BASED ON THE SUBMISSION RESIDE WITH THE MENTORS. 
 > No claim can be made on the number of points awarded by the Mentors🙂.
 
-
+</br>
 
 
 ## The Design Timeline:
+
+</br>
 
 | Task             | Tenative Time                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -42,11 +47,12 @@ Since everyone should be awarded for their efforts, the rest of the participants
 | User Interface (UI) Task -2 | Week 3 |
 | Documentation Task | Week 4 |
   
+</br>
 
 > The exact START and END date for each task will be mentioned in their respective folders. Keep checking for updates about new task releases😉!
 
 
-
+</br>
 
 ## **Contribution:**
 
@@ -58,8 +64,9 @@ Please follow the below guidelines while contributing to this project:
 5. Once you are confident in your work, create a pull request to the `main` branch of the upstream repository with proper descriptions explaining what you did and wait until we review it.
 
 > Check out [GitHub Flow](https://guides.github.com/introduction/flow/) for more details.
->
 
+
+</br>
 
 ## Quick Resources:
 
