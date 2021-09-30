@@ -49,7 +49,7 @@ Since everyone should be awarded for their efforts, the rest of the participants
   
 </br>
 
-> The exact START and END date for each task will be mentioned in their respective folders. Keep checking for updates about new task releases😉!
+> The exact START and END date for each task along with the detailed instructions will be mentioned in their respective folders. Keep checking for updates about new task releases😉!
 
 
 </br>
