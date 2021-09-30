@@ -29,13 +29,13 @@ Since everyone should be awarded for their efforts, the rest of the participants
 
 </br>
 
-> ALL THE FINAL DECISIONS FOR THE JUDGMENT AND AWARDING OF POINTS ⚖️ BASED ON THE SUBMISSION RESIDE WITH THE MENTORS. 
-> No claim can be made on the number of points awarded by the Mentors🙂.
+> ALL THE FINAL DECISIONS FOR THE JUDGMENT AND AWARDING OF POINTS ⚖️ BASED ON THE SUBMISSION RESIDE WITH THE MENTORS & ORGANISERS. 
+> No claim can be made on the number of points awarded by the Mentors & Organisers🙂.
 
 </br>
 
 
-## The Design Timeline:
+## ⏳The Design Timeline:
 
 </br>
 
