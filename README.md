@@ -18,11 +18,11 @@ For developing an app, it is essential to know the importance of UI/UX in the mo
 - The submissions will be judged by the mentors and points will be allotted by them for each particular task based on various aspects and intricacies of design like design thinking process, originality of the idea, visual appeal of the submission, etc. The points will be distributed as follows:
 
 
-    1st Place:   Full Points🥇
+    1st Place :   Full Points🥇
     
-    2nd Place:   0.8 * Full Points🥈
+    2nd Place :   0.8 * Full Points🥈
     
-    3rd Place:   0.5 * Full Points🥉
+    3rd Place :   0.5 * Full Points🥉
     
 
 Since everyone should be awarded for their efforts, the rest of the participants who qualify for the **Minimum Design Criteria (MDC)** as mentioned in the respective folders of the task will be awarded 0.3 * Full Points🎉.
