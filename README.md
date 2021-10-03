@@ -31,7 +31,14 @@ No claim can be made on the number of points awarded by the Mentors & Organisers
 
 </br>
 
-[Untitled](https://www.notion.so/f7c2622125274e2a96d057da5423338b)
+| Task             | Duration of Submission                                              | Difficulty Level      | Maximum Points    |
+| ----------------- | ------------------------------------------------------------------ | ---------------------- | ----------------- |
+| User Experience (UX) Task | 4th Oct - 8th Oct | Rookie | 10 |
+| User Interface (UI) Task - 1 | 9th Oct - 14th Oct | Skilled | 20 |
+| Graphic Design Task | 15th Oct - 20th Oct |  Skilled | 20 |
+| User Interface (UI) Task -2 | 19th Oct - 26th Oct | Expert | 50 |
+| Documentation Task | 27th Oct - 3rd Nov | Skilled | 20 |
+  
 
 </br>
 
