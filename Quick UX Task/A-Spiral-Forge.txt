@@ -1,0 +1,5 @@
+1. We can switch to status and call by sliding. This reduces our work and we switch easily.
+
+2. Shows number of status using arcs. 
+
+3. Shows how many status we seen usinf white arc and unseen usign green arc.
