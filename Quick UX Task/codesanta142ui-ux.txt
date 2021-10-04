@@ -1,0 +1,15 @@
+Whatsapp
+Github profile: codesanta142
+
+1st suggestion
+If a option persists to tag the message as important, 
+those unread messages must come first. When we have abundant of messages
+these important ones sometime get missed nad can cause a serious issue.
+
+2nd suggestion
+Archived chat must be at end, it comes ath the top and creates chaos
+We add those chats to archive which we dont neee right now so it must appear at end
+
+
+
+
