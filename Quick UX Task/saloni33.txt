@@ -1,0 +1,9 @@
+Views About Whatsapp home screen
+
+1. The chat section is maintained very nicely, showing the new chats at the top and also the pinned chats (which are most important at the top).
+2. The button at the bottom - right is placed efficiently because of its less frequent use.
+3. You can block and report any contact which you feel is using any abusive language or sending promotional advertisements.
+5. It distinctly shows the call logs with proper date and time.
+4. My suggestions:
+    - I think the camera option in the top-left is quite useless as people always prefer to take pictures from their phone's camera.
+    - We cannot share aur screens during the calls, unlike discord which provides this facility. This feature could aslo be added to Whatsapp.
