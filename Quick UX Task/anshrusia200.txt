@@ -1,0 +1,23 @@
+Reasons why the WhatsApp home screen looks like the way it does :
+
+1. Whatsapp ensures that its features take a complete cover over the routine activities of majority of its users. These include connecting with each other via different modes like voice call, messages, video calls, group messages. It also facilitates sharing photos and videos recorded simultaneously via whatsapp only.This keeps up with the flow of data.
+
+If these features would have been implemented in any other way than time consumed in sharing memories would definitely increase which is a great aspect for customers.
+
+2. The second thing is that only one screen is used and all features are implemented there itself (especially in whatsapp web). This makes communication hassle free. 
+
+If there had been multiple screens for different actions then the user would be confused and would also loose interest in exploring all of its features.
+
+3. The third most important feature is that the user need not learn using the app before hand. The features of the app are so simplified that even a non-tech guy is able to explore it to its best, same way a tech guy would do. This reduces learning of the app and its ease makes it more usable.
+
+If this feature of no learning was not implemented or differently implemented than the       brain usage involved while using the app would increase leading to non usability of the app for the majority of users.
+
+
+4. The next important feature is the privacy settings of whatsapp that enable users to be in touch with the world as per the time demands. For example if someone is disturbing a user whenever they go online te user can simply disable the last seen tag from the privacy settings and done. No one will know when they were online last time. Also the feature of disappearing messages is a best way to clear the past chat clutter and have a smooth experience.
+
+If this feature would have been different than the privacy of the user could have been affected and some specific users might switch to some other apps which are offering those features.
+
+
+
+
+
