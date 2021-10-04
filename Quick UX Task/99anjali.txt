@@ -1,0 +1,13 @@
+Reviews on Whatsapp
+
+1.One of the feature of whatsapp that when someone tag us We get the notification if if the group is in mute.
+ if this does not happen then it may be that we can miss the important information.
+
+
+
+
+Suggestions:
+
+1.one of the most irritating thing and suspense too ;) to see the message "this message is deleted". So, We can have a new feature that if a message is deleted then the message should be deleted without any notification and must not be visible in homescreen.
+
+2.Archive chats.. what happens in this is whenever we archive someone if they messaged us then the chats become normal so there is no use of doing archive hence there could be a feature that until we unarchive it person name should not appear in the screen.
