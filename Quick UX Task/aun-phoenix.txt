@@ -1,0 +1,7 @@
+Some of the features which make whatsapp user friendly are:
+
+1. It is also in the Dark mode.
+2. Shows a dot near status when uploaded new one by any contact so we get to know.
+3. Nice feature to pin the chats.
+4. available an option below for opening all the contacts.
+
