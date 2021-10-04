@@ -1,0 +1,11 @@
+Whatsapp features
+
+1. Whatsapp home screen has positioned their elements nearly perfectly.
+  a. The search button is positioned so that one can access it while using just one hand.
+  b. The menu button is positioned in a similar fashion.
+  c. The chat is sorted accordance to the recent activity. The pin feature is great through which you can fix some chats at the top but I would prefer if the limit on pinned chats is relaxed.
+
+2. The swipe transition through the chats, status and call section makes thing really easy otherwise it would have been very difficult to access those sections.
+
+3. I feel there should be an option to allow unread chats at the top. There is a lot of times the unread chats are simply missed.
+
