@@ -4,10 +4,10 @@ WhatsApp, almost everyone will agree, is closest to perfection. Its easy to use 
 
 According to me, the best features of WhatsApp Home Screen are:
 
-1. Its good-looking, homely and neat UI which contains minimum yet sufficient features.
-2. It is customizable, be it our all-time favourite dark mode or the font-size of names of contacts.
-3. The broadcast messaging feature is one very intuitive feature. 
-4. Pin and archive chats feature that help users to stick to their priorities.
+1. Its good-looking, homely and neat UI which contains minimum yet sufficient features. If not for it, the Home Screen would look cluttered and not as appealing as it looks right now.
+2. It is customizable, be it our all-time favourite dark mode or the font-size of names of contacts. The absence of these features would have made it difficult for users to adjust the app view to suit the comfort of their eyes.
+3. The broadcast messaging feature is one very intuitive feature. Its absence would make it difficult for users to communicate with a group of people without forming a group chat.
+4. Pin and archive chats feature that help users to stick to their priorities. If this feature wasn't there, users would have to go through all the messages all the time to see which ones are the most urgent. That would have been time consuming.
 
 
 Suggestions to improve User Experience:
