@@ -1,0 +1,17 @@
+WhatsApp UI Cool Features:
+
+1. Archived Chats
+	Helps keep the homescreen minimal, avoids clutter by keeping all non-important chats in a separate folder out of the user's view.
+	If this feature did not exist, we would be overwhelmed by the number of chats in the homescreen.
+
+2. Latest chat on top
+	Helps us access the latest messages.
+	If this feature did not exist, we would be searching for all our latest messages throughout the homescreen.
+	
+3. Chat pinning
+	Helps us pin 3 chats on top so that they are always the ones on the top of homescreen whether or not there are new messages.
+	If this feature did not exist, we would lose track of important conversations such as the ones with family members.
+	
+SUGGESTIONS TO IMPROVE USER EXPERIENCE
+	The number of chats that the user can pin should be increased because it is possible that one has more than 3 important conversations that 		they might want to keep on top.
+	
