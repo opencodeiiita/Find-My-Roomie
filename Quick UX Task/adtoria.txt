@@ -1,0 +1,17 @@
+Opinions on WhatsApp Home Screen
+
+WhatsApp, almost everyone will agree, is closest to perfection. Its easy to use UI design makes it distinguish itself from others.
+
+According to me, the best features of WhatsApp Home Screen are:
+
+1. Its good-looking, homely and neat UI which contains minimum yet sufficient features.
+2. It is customizable, be it our all-time favourite dark mode or the font-size of names of contacts.
+3. The broadcast messaging feature.
+4. Pin and archive chats feature.
+
+
+Suggestions to improve User Experience:
+
+1. Increase in maximum number of chats that can be pinned at the same time.
+2. A feature to choose whether or not to show group chat history to newly added members.
+3. Removing archived chats from the home screen. It can be included in the frequently visited areas of the app.
