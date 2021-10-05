@@ -1,0 +1,20 @@
+Coming to WhatsApp there are 2 features that are according to me a provides a great UX :
+
+1. The navigation between statuses , chat stream and camera is such that it doesn't hinders each other thus enabling smoothly focus on things at a time , 
+We use whatsApp majorly for messaging purposes so the Chat feature is the one which is in focus unlike many other Apps who do forces their feautures of stories and statuses into the main Screen.
+Whenever you want to see statuses of your loved ones you can easily switch to a completely different interface with only statuses.
+If the above feature wouldn't had been same as of now then the status would've most probably stacked over the chats whichwould have created a serious clutttering and the focus of whatsApp being 
+a messaging app would probably be lost.
+
+2.The recent Archive feature update by WhatsApp:
+While using WhatsApp you may have noticed that there are many such groups that are active but are of no use to you but you directly can't leave the groups sometimes due to 
+several issues like hurting a friend or :-P missing out group cheatings in an online test . In that case those active groups would get stacked up in your Chat interface .
+It's quite obvious that many a times your important chats might get lost because of those continously active groups .
+Earlier WhatsApp had an Archive feature but it wasn't the same as of now. When you would Archive , after a new message that group would get automatically unarchived thus 
+becoming an pain point for the user.
+But the present archive feature solves the problem of stacking up and doesn't get unarchived qutomatically.
+
+
+
+If i would have been a member of WhatsApp team I would've surely suggested an improvement in the feature of sending one time images(the new feature) , the main aim of such a feature should be
+maintaining the sender's privacy. Which in this case doesn't assures the sender that the image he/she had sent isn't saved/snapshotted by the receiver .
