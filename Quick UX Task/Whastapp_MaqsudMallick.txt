@@ -1,0 +1,16 @@
+Whatsapp
+Github profile: Maqsud Mallick.
+UX features:
+
+- Whatsapp focuses on providing the user the maximum number of his contacts possible at a glance thereby saving the user's time and energy. It follows the list type approch for listing its contacts which is pretty standard for all messaging apps thereby making the user instinctively know how things work without delving much into any manuals.
+
+- Whatsapp only views its most important functionality and also the one which most users would be concerned with which is listing contacts at the very front of its app. It's other features like Linking other devices and security settings etc are hidden under the menu with the three dots. Other than that the whatsapp status feature and also the call list feature are also linked to different routes making the user experience clean as most user wouldn't be concerned by those features first thing in the morning.
+
+- Whatsapp notification feature allows the user to view the entire message sent by its contact without even opening the app leading to saving user's time.
+
+- As we know from UX principles that the average user has the habit of reading from left to right and thus there eyes are naturally drawn to the left. Whatsapp applies this beautifully in their app as at the very left we have the profile images of the different contacts that the user has. The user doesn't even have to read anything and can tell whose contact he is checking out just at a single glance the first thing he does while opening the app.
+
+- Whatsapp follows the same styles across all of its sections providing the user for a more suggestive experience thereby saving his/her time.
+
+Suggestions:
+- Too many whatsapp groups with similar purposes clutter my app's homescreen leading to bad user experience leading to delay in user to find the contact or group he is actually looking for. (Imaging OpenCode discord server created on Whatsapp instead!!! It would be a mess.) Whatsapp can resolve this problem by allowing users to group up the groups which have similar context.
