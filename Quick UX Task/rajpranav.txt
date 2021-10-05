@@ -1,0 +1,10 @@
+Reasons why Whatsapp Home Screen loolks like the way it is:-
+ 
+ - when we open whatsapp it has three options at the top chat,status and calls which is to provide ease to user so that what they want can select it easily.
+ - The top 3 cahts are pinned (depens on the user) which are the important chat which user not want to miss in any situation.
+ -Also home screen hai three dots on the top right which helps to choose the things like setting which can be easily accesible.
+
+Suggestions which i want to propose :-
+
+- there should be @eveyone tag like discord so that you don't have to tag every person by its name.
+-there should be option to mute personal chats so that we can sray away from the non-important massages currently (we can read it when we want).
