@@ -1,0 +1,20 @@
+----------------------------Whatsapp-Features----------------------------------
+
+1.The best part of whatsapp home screen is that the recent chats/new messages are on the top of the chat list.
+  Also number of messages shown in the right side of the screen helps a lot to the users to see the 
+  most important msgs among the all new msgs.
+2.The pin feature on the home screen is one of the best feature which helps to pin the important grps or friends on the 
+  top.So that none of ur important stuffs goes down.
+3.The feature to set display picture (DP) is very usefule to identify another person or the important grps that u joined 
+  and helps to quickly identify the grp/person who messeged.Imagine what if there were no DP feature ..all friends/grps looks
+  similar and its just burdensome task to identify by the names of the grps. 
+  Obviously beacuse we can identify images more quickly then texts.
+
+---------------------------Suggestions------------------------------------------
+
+1.The last msg which u sent or recieved is also visible in the home screen which can be read by 
+  even other when ur sharing screen to some one, so it must be kept private/ hidden or visible only after 
+  opening the chat window of a particular friend.
+2.The feature to add anyone in a grp without asking is very bad feature.So a msg must be given to whom u r adding
+  in a grp and only if he accepts then only u can add.
+  
