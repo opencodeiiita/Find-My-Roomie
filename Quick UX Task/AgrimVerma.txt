@@ -1,0 +1,12 @@
+Whatsapp Home Screen
+
+Features
+1. Whatsapp has a simple and clean interface with no extra unwanted feature which makes it the most used messenging app.
+2. It has the best features to create a group chat.
+3. We can pin our top 3 chats at the top and also hide some chats in the archived section which appears at the top.
+4. We can mute our chats if we do not want to be disturbed time to time.
+
+Suggestions
+1. Group limit should be increased.
+2. Archived section is more suitable at the bottom of all chats.
+3. There should be an option to mute some groups completely including the mentions.
