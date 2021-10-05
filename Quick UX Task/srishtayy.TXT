@@ -6,16 +6,14 @@ My opinion on Whatsapp
    This feature saves lot of time and also allows us to view easily else  it would have taken a lot of time and craeted difficulties
    for user if placed somewhere else.
 
-2) The search button on the top right corner is also positioned well as it can be viewed easily being on top of the screen.
-   Had it been somewhere at the bottom we might not have bothered much about using it or would have ignored it.
+2) The search button on the top right corner is also positioned well according to Jacob's law of UX which states that users prefer 
+  your The law states that users prefer your website to function similarly to the websites they visit on regular basis. That means
+  that important elements on your website should behave as similar as possible to elements on other websites that the 
+  user visits regularly.An example can be the search button on the top most like a company logo on a website which allows user to 
+  search groups easily saving lot of time.
   
-3) Also the feature displaying number of  messages in green at right side of every chat enhances user experience and makes
-  it easier to view things thereby helping the user.
+3) Also the feature displaying cruial parts like calls ,status ,search option and the feature of craeting new group are positioned 
+   accurately on the top and bottom respectively as  we tend to remember best the first and the last items in that list or sequence
+   (serial position effect) like we have in most of the websites.
+    
 
-Suggestions:
-  
-1) Like we have separate colours for contact names for different contacts in a whatsapp group we could also have separate colour
-   for chatbox or seperate color for the chats done by different users in order to view things even more efficiently. 
-
-2) Message reactions could be a great feature to enhance user experience like you have on instagram.
-   Instead of tagging the messages unnecessarily just to send an emoji we can have message reactions.
