@@ -1,0 +1,23 @@
+Whatsapp Home Screen
+
+Whatsapp has a simple and clean interface with no extra unwanted feature which makes it the most used messenging app.
+
+UI Features:
+
+1. Sections
+    On opening whatsapp, we have three sections chats, status and call side by side. It allows us to view and access things efficiently.
+
+2. Archived
+    Archived section in whatsapp appear at the top of all chats. It helps us arrange all the unnecessary and least used chats at one place. Without this section, it would very difficult to find users we do not save in our phone.
+
+3. Pinned chats
+    After the Archived section, we have our pinned chats. We can pin 3 chats at a time. It helps keep our important chats at the top.
+
+4. Management
+    All the other important options such as profile update, starred messages, new group,etc are present at one place and we access them by the three dots at the top right corner.
+
+
+Suggestions
+1. We should be allowed to pin more than 3 chats.
+
+2. Archived section is more suitable at the bottom of all chats.
