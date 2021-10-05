@@ -1,0 +1,14 @@
+Featurs
+
+1) One Can see profile photo by clicking on home screen unlike Instagram and Snapchat.
+2) Both dark and light theme customisable fonts.
+3) Easy to navigate as there are various subsections like status and calls.
+4) Seperate button for creating new group/broadcast/chats.
+
+
+
+Suggestions
+
+1) If they create another section for groups like chats/status/calls.(we can see the example of discord)
+2) If they can add a voice search for searching contacts and creating groups.
+3) Showing archive chats option on the top is bit annoying because I don't wanna show someone that I archived chats( while accidently  sharing screen *wink wink*)
