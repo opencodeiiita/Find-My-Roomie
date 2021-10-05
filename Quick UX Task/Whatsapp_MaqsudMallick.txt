@@ -1,0 +1,13 @@
+Whatsapp
+UX features:
+
+- As soon as the app is opened Whatsapp aims to give us visual information about the maximum number of contacts possible at a glance. The list type approach that it follows keeping the contacts on after the other which is quite standard for any messaging app allows the user to intuitively know what he needs to do and also provides most efficient use of space to tell the user about the maximum number of contacts it can at a glance.
+
+- By UX principles we know that most of the users read from left to right. Whatsapp uses this principal beautifully as it encompases all of the profile pictures of the different contacts that the user has to the left of the screen. As soon as the user opens the app his eyes naturally travel to the profile pics first and he instinctively knows which contact is what without even reading anything about it.
+
+- The core feature of whatsapp is to chat. Whatsapp does a great job as it hides all of its other features like Linking device etc under a menu and things like whatsapp status under the nav bar thereby keeping the first look of the website incredibly clean providing a nice user experience. Had all of these features been put up in a single page the app would have been extremely cluttered for the average user who had nothing to do with them.
+
+
+Suggestions:
+
+- There are too many whatsapp groips on an average whatsapp user's app. There is no feature for grouping up the relevant groups togther making the app seem cluttered. Imagine having the different projects of openCode on whatsapp instead of discord it would have been a mess.
