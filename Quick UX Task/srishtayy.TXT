@@ -1,0 +1,19 @@
+My opinion on Whatsapp
+
+1) I believe that the layout of whatsapp is such that it allows user to view things quite efficiently.For example
+    we have status ,calls and chats placed together so that we can easily move from one to the other.
+
+   This feature saves lot of time and also allows us to view easily else  it would have taken a lot of time and created difficulties
+   for user if placed somewhere else.
+
+2) The search button on the top right corner is also positioned well according to Jacob's law of UX which states that users prefer 
+   your website to function similarly to the websites they visit on regular basis. That means
+  that important elements on your website should behave as similar as possible to elements on other websites that the 
+  user visits regularly.An example can be the search button on the top most like a company logo on a website which allows user to 
+  search groups easily saving lot of time.
+  
+3) Also the feature displaying crucial parts like calls ,status ,search option and the feature of creating new group are positioned 
+   accurately on the top and bottom respectively as  we tend to remember best the first and the last items in that list or sequence
+   (serial position effect) like we have in most of the websites.
+    
+
