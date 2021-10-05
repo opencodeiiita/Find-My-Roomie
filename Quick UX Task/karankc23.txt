@@ -1,0 +1,10 @@
+Github: karankc23
+
+Reviews:
+1. New improved calling design is better and it is easier to make group calls now.
+2. We can mute status updates of a person, so if someone spams a lot of statuses, we can just mute his status updates.
+
+Suggestions for Whatsapp:
+1. There should be a vault, where we can password protect our secret chats, so that even if someone opens our whatsapp, he wont be able to see those chats.
+2. There should also be a separate section like Status and Calls for Group Chats so that Group Chats can be distinguished from the personal chars.
+
