@@ -1,0 +1,10 @@
+Features 
+1) Simple and elegant design.
+2) Option to pin chats.
+3)The search button on the top right corner.
+4)Tags appearing on right side of group icon.
+5)Recent messages can be seen without opening the chat.
+
+Suggestions
+1) Archived chats display on top which destroys the whole point of archiving.
+2) Option to pin more than on chat.
