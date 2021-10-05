@@ -1,0 +1,13 @@
+Whatsapp has one of the best UI/UX experience.
+
+Some features i like:-
+1)Frequently forwarded tags on messages which are forwarded by multiple user help us to identify spam messages
+2) The toggle between light and dark mode is amazing
+3) Allowing to add customizable background is a good feature 
+4) Allowing to pin chats helps us to keep the most important chats on top
+
+Some changed i would like to propose:-
+1)The search button is at the top. Most people use whatsapp single handedly and that button isn't reachable on big phones. I would like to change its location to somewhere near the bottom.
+2)Allowing to assign roles and the @everyone tag in whatsapp group chats.
+
+
