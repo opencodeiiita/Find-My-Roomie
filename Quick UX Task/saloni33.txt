@@ -1,0 +1,14 @@
+Github id - saloni33
+
+Whatsapp reviews 
+Chats section covers a significant area of the screen because of its very frequent usage.
+Pinned messages always come at the top of the screen - 
+Since we pin the chats which are very important to us, therefore, it’s very helpful to see those chats at the top.
+
+The blueprint of a single chat is made very efficiently - 
+First of all, showing the logo on the left, then the person/group name and the last message of that chat all are arranged in an efficient manner.
+
+Whatsapp Suggestions -
+The status section of the app has wide spaces on the right side of the screen, also the left section where status is displayed has a very simple design
+The status section should be made more creative by adding a comment in the right to show whether you reacted to status or not and the theme of that section must be changed. 
+
