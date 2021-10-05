@@ -1,4 +1,4 @@
-Coming to WhatsApp there are 2 features that are according to me a provides a great UX :
+**Coming to WhatsApp there are 2 features that are according to me a provides a great UX :
 
 1. The navigation between statuses , chat stream and camera is such that it doesn't hinders each other thus enabling smoothly focus on things at a time , 
 We use whatsApp majorly for messaging purposes so the Chat feature is the one which is in focus unlike many other Apps who do forces their feautures of stories and statuses into the main Screen.
