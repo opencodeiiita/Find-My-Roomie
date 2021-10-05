@@ -1,0 +1,11 @@
+**WhatsApp**
+
+Reviews:
+> Pinned chats are easily available at the top of launcher activity of whatsApp.
+> Whenever we post any status, there always comes an option to share the same post to facebook. This really helps whenever we need to give event updates.
+> Easy user interface  
+
+Suggestions :
+> In a group, there should be everyone tag and a feature through which we can add our friends and tag them collectively whenever needed rather tagging each of them everytime.
+> Pinned chats should be visible in WhatsApp web also.
+> There is a section for writing any text in status, it has very limited options for background and fonts so, this should be improved.
