@@ -1,0 +1,18 @@
+Whatsapp Home Screen
+
+Features
+1. Whatsapp has a simple and clean interface with no extra unwanted feature which makes it the most used messenging app. It has the best features to create a group chat.
+
+2. On opening whatsapp, we have three sections chats, status and call with chat being a default. In the chat section, archived section appears at the top with our pinned chats next to it. Pinning our top 3 chats is a very useful feature of whatsapp. We can also mute our chats for specific time interval if we don not wish to be disturbed.
+
+3. Some chats appear with a green tick on the right side are business chats. We can raise or issues of various platform like flipkart and jioservices on whatsapp. Some specific business chats also help to find people Covid vaccine. 
+
+4. Whatsapp messages are protected by end-to-end encryption and it also provide ways to make them automatically disappear from chats. Whatsapp is now providing a feature to transfer chat history from one operating system to another when switching phones. When we set up a new device, we are provided with the option to securely transfer our chats from our old device to our new one. This process requires a USB-C to Lightning cable.
+
+
+Suggestions
+1. Group limit should be increased specially now when classes are online and whole batches are to added in a group.
+
+2. Archived section is more suitable at the bottom of all chats.
+
+3. There should be an option to mute some groups completely including the mentions.
