@@ -1,0 +1,11 @@
+Whatsapp is one of the most used chatting apps in the world, and I think that is for a reason.
+
+--> All the chats are arranged in decreasing order of last message received with latest chats gliding to the top. This helps in responding to chats in time.
+
+--> Archiving chats is a great feature, it helps in removing distractions. Suppose you have a group chat where the messages do not concern you, you can put it in the Archive section.
+
+--> Pinning chats is a great way to keep your most important conversations on top. These do not get pushed down by new messages.
+
+SUGGESTION:
+
+I would suggest allowing the user to pin more than 3 chats at once. This would be a great help for people who have more than 3 important chats and/or family members.
