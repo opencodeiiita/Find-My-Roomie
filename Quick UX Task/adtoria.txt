@@ -1,17 +1,16 @@
 Opinions on WhatsApp Home Screen
 
-WhatsApp, almost everyone will agree, is closest to perfection. Its easy to use UI design makes it distinguish itself from others.
+Reviews:
 
-According to me, the best features of WhatsApp Home Screen are:
-
-1. Its good-looking, homely and neat UI which contains minimum yet sufficient features. If not for it, the Home Screen would look cluttered and not as appealing as it looks right now.
-2. It is customizable, be it our all-time favourite dark mode or the font-size of names of contacts. The absence of these features would have made it difficult for users to adjust the app view to suit the comfort of their eyes.
-3. The broadcast messaging feature is one very intuitive feature. Its absence would make it difficult for users to communicate with a group of people without forming a group chat.
-4. Pin and archive chats feature that help users to stick to their priorities. If this feature wasn't there, users would have to go through all the messages all the time to see which ones are the most urgent. That would have been time consuming.
+1. Users can distinguish which chats have new messages or which chats haven't been read yet. The set of colours used by WhatsApp, white and green makes it possible. Also, this set of colours provides a rather comfortable view to the human eye.
+2. The most used features are there on the home screen making navigation easier and faster for the users. Users instantly get all the updates at a glance.
+3. Pin and archive chats feature that help users to stick to their priorities. If this feature wasn't there, users would have to go through all the messages all the time to see which ones are the most urgent. That would have been time consuming.
+4. It has simple yet effective UX such that new users can easily process and understand its working. This design is resposible for the huge user base that WhatsApp has today.
+5. The feature that indicates in which groups have the user been mentioned helps them to go through relatively important chats first. This helps users keep updated with their chats even when busy.
 
 
 Suggestions to improve User Experience:
 
-1. Increase in maximum number of chats that can be pinned at the same time.
-2. A feature to choose whether or not to show group chat history to newly added members.
-3. Removing archived chats from the home screen. It can be included in the frequently visited areas of the app.
+1. Remove archived chats from the home screen. It can be included in the lesser visited areas of the app.
+2. Increase the maximum number of chats that can be pinned at a time.
+3. Create different sections for direct messages and group chats. Since group chats are less important than direct messages, keep direct messages section as the primary screen. However, make a feature so that important group chats can be pinned on the primary screen.
