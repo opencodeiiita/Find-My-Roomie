@@ -1,0 +1,5 @@
+Reasons why the WhatsApp home screen looks like the way it does :
+
+1. The UX of WhatsApp is kept minimal to minimize the hassle that a use must go during using the app and the navigation around the app has become simpler.
+2. Since the target  audiences of whatsapp are almost everyone with smrtphone, including old and youngs, the minimal style like one screen only app, has made it very simple to use and hence is more popular in every community,
+3. The chats are so arragned that the priority message always comes first OR latest message always comes first so that we don't have to scroll down to see who did the last message to us.
