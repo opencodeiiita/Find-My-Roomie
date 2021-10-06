@@ -1,0 +1,23 @@
+Reasons why Whatsapp Home Screen looks like the way it is:-
+
+
+1. Home screen chat,status, calls feature:-
+when we open whatsapp it has three options at the top chat,status and calls which is to provide ease to user so that what they want can select it easily if they won’t be there it always takes sometime to select what we exactly want to do.
+
+
+2. The pinned chat feature:-
+ The top 3 chats are pinned (depends on the user)if this feature wasn’t there then its really messy task to find the important ones.
+
+
+3.Archived chat feature:-
+Its the most important one because in case we don’t have this one we can’t hide any chats from someone like (parents ) and also helps to leave unnecessary massages as it is.
+
+
+Suggestions which i want to propose :-
+
+
+- there should be @eveyone tag like discord so that you don't have to tag every person by its name.
+
+
+-there should be option to mute personal chats so that we can stay away from the non-important massages currently (we can read it when we want).
+
