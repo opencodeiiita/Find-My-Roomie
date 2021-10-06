@@ -1,0 +1,20 @@
+Opinions on WhatsApp Home Screen
+
+Reviews:
+
+    1. Users can distinguish which chats have new messages or which chats haven't been read yet. The set of colours used by WhatsApp, white and green makes it possible. 
+       Also, this set of colours provides a rather comfortable view to the human eye.
+    2. The most used features are there on the home screen making navigation easier and faster for the users. Users instantly get all the updates at a glance.
+    3. Pin and archive chats feature that help users to stick to their priorities. 
+       If this feature wasn't there, users would have to go through all the messages all the time to see which ones are the most urgent. That would have been time consuming.
+    4. It has simple yet effective UX such that new users can easily process and understand its working. This design is resposible for the huge user base that WhatsApp has today.
+    5. The feature that indicates in which groups have the user been mentioned helps them to go through relatively important chats first. 
+       This helps users keep updated with their chats even when busy.
+
+
+Suggestions to improve User Experience:
+
+    1. Remove archived chats from the home screen. It can be included in the lesser visited areas of the app.
+    2. Increase the maximum number of chats that can be pinned at a time.
+    3. Create different sections for direct messages and group chats. 
+       Since group chats are less important than direct messages, keep direct messages section as the primary screen.
