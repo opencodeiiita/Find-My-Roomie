@@ -31,6 +31,8 @@ No claim can be made on the number of points awarded by the Mentors & Organisers
 
 Since these tasks are for learning design and not just scoring points so any kind of Plagiarism or attempt thereof wouldn't be tolerated and would lead to disqualification from OpenCode. You can always ping us for doubts and we would be more than happy to help but simply copying others' ideas for the sake of completing the tasks will be dealt strictly with.
 
+</br>
+
 ## ⏳The Design Timeline:
 
 </br>
