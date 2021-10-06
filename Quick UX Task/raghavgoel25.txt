@@ -1,0 +1,5 @@
+The reasons why I think the WhatsApp Home Screen looks the way it does are:
+
+1. The different chats that we see on the home screen have a list view instead of a grid view. This feature allows the user to see more chats at once as compared to what he would have been seeing if the grid view was implemented. 
+2.Von Restorff effect has been used effectively. It predicts that when multiple objects of the same type are present, the one that differs from the rest is most likely remembered, hence an important object can be made distinctive from others. We can see this being implemented in what we see for unread chats, they are sent to the top and also show the number of unread messages, standing out from the other chats.
+3.In the IOS app, you can also long press on a chat to get a preview of the unread messages, which is a very useful feature.
