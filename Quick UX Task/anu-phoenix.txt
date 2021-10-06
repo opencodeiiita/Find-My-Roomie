@@ -1,0 +1,14 @@
+Features in whatsapp and without those what will be the problem faced:
+
+1. There is dark mode available:
+   As we as a developer have to work consistently on screen and many more people have a long scrren time so dark mode does not create much stress in the eyes in comparison to brighter one.
+
+2. Feature to pin the chat:
+   This feature reduces the time and effort as we can pin the chat which are important and dont have to search for it again and again.
+
+3. The chat with recent message comes up:
+   As a new message comes the chat comes up in the sequence so we dont have to search for the chat which have recent message.
+
+4. Shows how many chats are pending to open:
+   It shows how many chats are pending to open soo that if any chat by chance went down while we were busy and were not able to reply soo we can check again and reply.
+
