@@ -1,0 +1,21 @@
+Features with good UI
+
+1. New archive feature 
+   The updated archive feature of whatsapp makes the archived section at the top which is more understandable for a non-tech user than the previous one which had archive section in the last.
+   This increases the readability and makes clear to the user.
+   This update also provides us the archived chats to be archived until we do not unarchive them. Before this update, new message of the archived chats got appear on the homescreen.
+
+2. Chats, Status and Calls accessibility
+    Whatsapp is basically a messenger which majorly focus on chats.
+    It pops up 'Chats' section in the homepage which shows it is majorly focused with chats and no other unwanted stuff.
+    It has navigation section of chats, status and calls which makes those three sections easily accessible.
+  
+3. Mute chats
+    The muted chats have pretty cool minimal mute icons in the right corner of them and this feature makes us to not to leave the unnecessary groups instead mute them. 
+    
+
+Suggestion
+
+Starred messages:
+  To access the starred messages, the starred messages option is there in the menu bar. Starred messages are the messages which are important to us.
+  There should be a separate icon for starred messages in the header aligned with the search button icon which can make the accessibility of important messages easier and faster.
