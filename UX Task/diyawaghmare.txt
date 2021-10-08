@@ -1,0 +1,6 @@
+Two features:
+1. The 'new chat' button on the bottom right helps when you're in a hurry and need to create a group immediately and eases the process of creating it. 
+2. Similar to the Von Restorff effect, WhatsApp highlights a group with '@' symbol when you are tagged on its home screen which is very helpful when you have too many group chats to go through.
+
+Changes proposed:
+The change profile photo option should be easier to access as many non-tech savvy people put up statuses when trying to change their profile icon.

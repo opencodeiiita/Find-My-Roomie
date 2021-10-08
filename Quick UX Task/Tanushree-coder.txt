@@ -1,0 +1,10 @@
+**WhatsApp**
+
+Reviews:
+> Pinned chats are easily available at the top of launcher activity of whatsApp which helps us to keep our important chats at top. If this feature wasn't present, then we would have to search it out scrolling the chats and it might happen that we miss out something because it was out of sight.
+> In contrary to the above point, there may be some groups which does not need to be checked regularly but we can't leave that chat/group also, so, there is a feature to mute chats which doesn't give us notifications and hence, we can avoid spam.
+> The tagging feature of whatsApp is also good since it shows us that we have been called by someone in a group(most probably for some important work) that might get out of sight because of spamming if this feature wasn't there.
+
+Suggestions :
+> Archived chats should be present at bottom instead of being at top since it opposes the purpose of *hidden* chats.
+> There should be a one tap option change our DP and status(about section) on homescreen. It rather takes 4-5 steps to change/view our own DP and just one tap to view others' DP.
