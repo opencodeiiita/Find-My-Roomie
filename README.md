@@ -41,9 +41,8 @@ Since these tasks are for learning design and not just scoring points so any kin
 | ----------------- | ------------------------------------------------------------------ | ---------------------- | ----------------- |
 | User Experience (UX) Task | 4th Oct - 8th Oct | Rookie | 10 |
 | User Interface (UI) Task - 1 | 9th Oct - 14th Oct | Skilled | 20 |
-| Graphic Design Task | 15th Oct - 20th Oct |  Skilled | 20 |
-| User Interface (UI) Task -2 | 19th Oct - 26th Oct | Expert | 50 |
-| Documentation Task | 27th Oct - 3rd Nov | Skilled | 20 |
+| Graphic Design Task | 15th Oct - 22th Oct |  Skilled | 20 |
+| User Interface (UI) Task -2 | 22th Oct - 4th Nov | Expert | 50 |
   
 
 </br>
